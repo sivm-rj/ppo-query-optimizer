@@ -1,0 +1,36 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints (from Stable Baselines3)
+*.zip
+*.pkl
+ppo_*.zip
+
+# Logs or monitor CSVs
+*.log
+monitor.csv
+
+# IDE/project files
+.vscode/
+.idea/
+*.swp
+
+# Environment files
+.env
+*.env
+.env.*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+env/
+venv/
