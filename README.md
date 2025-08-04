@@ -103,7 +103,6 @@ Runs the PPO agent to generate join plans and compares **real PostgreSQL costs**
 
 - **Training rewards** over time (`visualize.py`)
 - **Cost comparison**: RL vs Greedy
-- **Join order heatmaps** (optional)
 
 ---
 
